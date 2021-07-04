@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Proyecto Taller aplicaciones móviles - UCEN",
+    "githubUrl": "https://github.com/ehernandezvilla/DataScreens"
   }
 }

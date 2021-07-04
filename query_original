@@ -1,0 +1,31 @@
+const GET_CITY = gql`
+  query search($term: String!) {
+    search(location: "Santiago ", term: $term) {
+      business {
+        name
+        id
+        photos
+        hours {
+          hours_type
+          is_open_now
+        }
+        review_count
+        location {
+          address1
+        }
+        url
+        phone
+        reviews {
+          rating
+          text
+
+        }
+        categories {
+          title 
+        }
+        price
+        rating
+      }
+    }
+  }
+`;
