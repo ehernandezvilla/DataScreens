@@ -11,7 +11,7 @@ import {
   
   const API_URL = "https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/graphql";
   const API_TOKEN =
-    "rudCpUziqfJXxJ6fBlRSBzshsXbEs_dRbP7NSJPaHs_-KGwDuQDBNme8tTpK_f73c3AkFCry23hZ1eDYMP3rLRB-GLmQ1nkKUveWjbLyMWzcpJjpLUYA4AqXycLEYHYx";
+    "";
   
   const authLink = setContext((_, { headers }) => {
     return {
