@@ -9,7 +9,7 @@ FOOD.CRITICS es una aplicación React Native que permite a los usuarios buscar a
 Para instalar y utilizar esta aplicación en su entorno local, siga los siguientes pasos:
 
 ```bash
-git clone [your-repo-link]
+git clone restaurant-app
 cd restaurant-app
 npm install
 npm start
