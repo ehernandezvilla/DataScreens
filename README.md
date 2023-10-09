@@ -1,4 +1,4 @@
-# FOOD.CRITICS App
+# FOOD.CRITICS App - React Native 
 
 ## Descripción
 
